@@ -32,3 +32,9 @@ fields:
   type: boolean
   hidden: false
   default: ''
+- type: file
+  name: file_upload
+  label: file upload
+  description: ulpoad your cv
+  config:
+    maxSize: '5'
