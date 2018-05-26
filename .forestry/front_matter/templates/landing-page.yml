@@ -78,5 +78,9 @@ fields:
   type: text
   hidden: true
   default: home
+- type: image_gallery
+  name: upload
+  label: Upload
+  description: upload your file
 pages:
 - index.md
